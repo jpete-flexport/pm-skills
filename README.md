@@ -48,6 +48,8 @@ cp -r skills/pm-prd-scaffold ~/.claude/skills/
 
 ## Quick Start
 
+**New here?** See [QUICKSTART.md](QUICKSTART.md) for 5-minute setup guide.
+
 ### Prerequisites
 
 - Claude Code installed and configured
